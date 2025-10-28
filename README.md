@@ -1,5 +1,5 @@
 # Hey 👋
-I’m a Senior Infrastructure Engineer who’s been in the game for more than a decade, most of that spent deep in AWS and building Terraform setups that actually scale. I love making cloud infrastructure simple, reliable, and cost-effective.
+I’m a Senior Infrastructure Engineer coming from Bare Metal into Cloud. Been in the game for more than a decade, most of that spent deep in AWS and building Terraform setups that actually scale. I love making cloud infrastructure simple, reliable, and cost-effective.
 
 ### A Few Highlights
 - Building and scaling AWS setups for startups
@@ -10,9 +10,7 @@ I’m a Senior Infrastructure Engineer who’s been in the game for more than a 
 ### Preferred Stack
 - **AWS**: EC2, ECS, EKS, RDS, Lambda, S3, VPC, IAM, CloudFormation, Route53, CloudFront, ALB/NLB, Auto Scaling, and plenty more
 - **Terraform**: modules, state management, custom providers, enterprise IaC patterns
-- **Coding/Tooling**: Python, Go are the languages of choice. Worked a lot with large codebases of Ruby, NodeJS and some C#.  
-
-
+- **Coding/Tooling**: Python, Go are the languages of choice. Worked a lot with large codebases of Ruby, NodeJS and some C#.
 <!--
 
 Here are some ideas to get you started:
